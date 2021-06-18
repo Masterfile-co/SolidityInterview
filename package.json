@@ -1,0 +1,27 @@
+{
+  "name": "SolidityInterview",
+  "version": "1.0.0",
+  "description": "This set of questions shouldn't take more than 30-45 minutes to finish. [Hardhat](https://hardhat.org/getting-started/) framework is used for this repo. To test contracts run `npx hardhat test`. You can use ethers.js or web3.js to write tests. If any of the instructions are unclear, just leave a comment with your interpretation of the problem and continue to solve from there. Once complete, please create a zip folder containing all files execpt for node_modules and email to garrett@masterfile.co with your Solidity Interview - Your Name in the subject line. These problems are not meant to be challenging, but mostly to show off your thought process.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Masterfile-co/SolidityInterview.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Masterfile-co/SolidityInterview/issues"
+  },
+  "homepage": "https://github.com/Masterfile-co/SolidityInterview#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.4",
+    "ethers": "^5.3.1",
+    "hardhat": "^2.4.0"
+  }
+}
